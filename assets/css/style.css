@@ -1,3 +1,30 @@
 .bg_darker{
     background-color: blue;
 }
+
+
+.box{
+    width: calc(100%/8);
+    aspect-ratio: 1;
+    background-color: red;
+    margin: 2px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.bg_green{
+    background-color: green;
+}
+
+.bg_yellow{
+    background-color: yellow;
+    color: black;
+}
+
+.bg_dark{
+    background-color: rgb(4, 4, 80);
+}
