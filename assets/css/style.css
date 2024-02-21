@@ -7,7 +7,7 @@
     width: calc(100%/8);
     aspect-ratio: 1;
     background-color: red;
-    margin: 2px;
+    margin: 10px;
     list-style: none;
     display: flex;
     justify-content: center;
